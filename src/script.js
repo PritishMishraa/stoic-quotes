@@ -1,5 +1,5 @@
 function myFunction() {
-    fetch(`http://localhost:8080/quote`)
+    fetch(`https://stoic-quotes-pritish.herokuapp.com/quote`)
         .then(response => response.json())
         .then(data => update(data));
 }
