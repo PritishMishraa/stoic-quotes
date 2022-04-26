@@ -13,3 +13,9 @@ function update(data) {
 }
 
 document.addEventListener("click", myFunction);
+document.body.onkeyup = function (e) {
+    if (e.keyCode == 32 || e.keyCode == 13) {
+        //your code
+        myFunction()
+    }
+}
