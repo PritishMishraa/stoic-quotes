@@ -4,9 +4,8 @@
 
 <h1 align="center"> stoic-quotes </h1>
 <h4 align="center"> a simple app that displays random stoic quotes </h4>
-<p align="center">
-  <a herf="https://github.com/PritishMishraa/stoic-quotes/issues"><img src="https://img.shields.io/github/issues/PritishMishraa/stoic-quotes" /></a>
-</p>
+
+[![](https://img.shields.io/github/issues/PritishMishraa/stoic-quotes?style=for-the-badge)](https://github.com/PritishMishraa/stoic-quotes/issues)
 
 ## Visit
 
